@@ -1,0 +1,10 @@
+.container{
+    padding:150px;
+    .homeContainer{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+}
